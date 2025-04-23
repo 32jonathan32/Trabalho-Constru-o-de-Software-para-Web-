@@ -61,8 +61,10 @@ main {
     border-top-left-radius: 25px;
 
  }
-nav:hover{
+a:hover{
    
+   background-color: blue;
+
 }
 
 
